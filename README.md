@@ -6,7 +6,7 @@ I use newer go version 1.22 and code with go.dev/play
 
 Link to each problem :
 
-1. Palindrome ([Link](https://go.dev/play/p/EldV8t9JWnY){:target="_blank"})
+1. Palindrome [Link](https://go.dev/play/p/EldV8t9JWnY){:target="_blank"}
 
 2. Max Array ([Link](https://go.dev/play/p/XDIW3qhmbg8){:target="_blank"})
 
